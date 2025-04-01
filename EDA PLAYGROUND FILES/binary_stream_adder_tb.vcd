@@ -1,0 +1,88 @@
+$date
+	Tue Apr  1 03:21:18 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module binary_stream_adder_tb $end
+$var wire 1 ! Sum $end
+$var reg 1 " A $end
+$var reg 1 # B $end
+$var reg 1 $ clk $end
+$var reg 1 % rst $end
+$scope module uut $end
+$var wire 1 " A $end
+$var wire 1 # B $end
+$var wire 1 $ clk $end
+$var wire 1 % rst $end
+$var parameter 1 & S0 $end
+$var parameter 1 ' S1 $end
+$var reg 1 ! Sum $end
+$var reg 1 ( carry $end
+$var reg 1 ) current_state $end
+$var reg 1 * next_state $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+1'
+0&
+$end
+#0
+$dumpvars
+0*
+0)
+0(
+1%
+0$
+0#
+0"
+0!
+$end
+#5000
+1$
+#10000
+0$
+0%
+#15000
+1$
+#20000
+1!
+0$
+1#
+#25000
+1$
+#30000
+0$
+0#
+1"
+#35000
+1$
+#40000
+1*
+1(
+0!
+0$
+1#
+#45000
+1!
+1)
+1$
+#50000
+0!
+0$
+0"
+#55000
+1$
+#60000
+1!
+0$
+1"
+#65000
+1$
+#70000
+0$
